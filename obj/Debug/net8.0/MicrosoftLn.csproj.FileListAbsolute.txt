@@ -12,3 +12,4 @@ C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\MicrosoftLn\obj\Debug\net8.0\ref
 C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\MicrosoftLn\obj\Debug\net8.0\MicrosoftLn.pdb
 C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\MicrosoftLn\obj\Debug\net8.0\MicrosoftLn.genruntimeconfig.cache
 C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\MicrosoftLn\obj\Debug\net8.0\ref\MicrosoftLn.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\MicrosoftLn\obj\Debug\net8.0\MicrosoftLn.sourcelink.json

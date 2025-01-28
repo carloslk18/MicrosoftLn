@@ -7,8 +7,8 @@ class Program{
 
     public static void Main(string [] args){
         
-        ConditionOp condition = new ConditionOp();
-        condition.Ex01();
+        Control control = new Control();
+        control.Exercise();
 
     }
 }
