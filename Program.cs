@@ -11,6 +11,21 @@ class Program{
         TryParse tryparse = new TryParse();
         tryparse.ex01();
 
+        public static void Main(string [] args){
+        
+        TryParse tryparse = new TryParse();
+        tryparse.ex01();
+
+            public static void Main(string [] args){
+        
+        TryParse tryparse = new TryParse();
+        tryparse.ex01();
+
+                public static void Main(string [] args){
+        
+        TryParse tryparse = new TryParse();
+        tryparse.ex01();
+
         
     }
 }
