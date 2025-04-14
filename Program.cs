@@ -1,32 +1,12 @@
-﻿using System;
-using MicrosoftLn.Intro.Part3;
-using MicrosoftLn.Intro.Part4;
-
+﻿using MicrosoftLn.FourthUnit;
 namespace MicrosoftLn{
-
-class Program{
+public class Program{
 
     public static void Main(string [] args){
-        
-        TryParse tryparse = new TryParse();
-        tryparse.ex01();
 
-        public static void Main(string [] args){
-        
-        TryParse tryparse = new TryParse();
-        tryparse.ex01();
+        var x = new Test();
+        x.FinalTest();
 
-            public static void Main(string [] args){
-        
-        TryParse tryparse = new TryParse();
-        tryparse.ex01();
-
-                public static void Main(string [] args){
-        
-        TryParse tryparse = new TryParse();
-        tryparse.ex01();
-
-        
     }
 }
 }
