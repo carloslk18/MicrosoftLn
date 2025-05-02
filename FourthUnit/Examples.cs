@@ -17,9 +17,6 @@ public class Examples{
         char[] valueArray = value.ToCharArray();
         Array.Reverse(valueArray);
 
-        string result = String.Join(",",valueArray);
-        Console.WriteLine(result);
-
         }
     }
 }
