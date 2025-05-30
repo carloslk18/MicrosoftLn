@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\GG\\C#\\MicrosoftLn\\MicrosoftLn.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\Desktop\\GG\\C#\\MicrosoftLn\\MicrosoftLn.csproj",
       "projectName": "MicrosoftLn",
-      "projectPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\GG\\C#\\MicrosoftLn\\MicrosoftLn.csproj",
+      "projectPath": "C:\\Users\\carlo\\Desktop\\GG\\C#\\MicrosoftLn\\MicrosoftLn.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\GG\\C#\\MicrosoftLn\\obj\\",
+      "outputPath": "C:\\Users\\carlo\\Desktop\\GG\\C#\\MicrosoftLn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.313/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

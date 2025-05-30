@@ -1,0 +1,47 @@
+[33mcommit 7635f07318484ca0dc86415addd16df5573533f8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Carlos barbosa <carloslk18@gmail.com>
+Date:   Wed Apr 16 01:54:18 2025 -0300
+
+    chore: create class Test to excute FT
+
+[33mcommit afbe4edd4358fde8f8f580176c9063964d43b859[m
+Author: Carlos barbosa <carloslk18@gmail.com>
+Date:   Mon Apr 14 04:30:57 2025 -0300
+
+    chore: create classes Test and Exampels
+
+[33mcommit 6b7f86df8e2ae8e846c28be5fbaf8c82d7d3ccb2[m
+Author: Carlos Barbosa <77971569+carloslk18@users.noreply.github.com>
+Date:   Sat Mar 22 02:42:48 2025 -0300
+
+    Update Program.cs
+
+[33mcommit 6bc2b98983e606e7b1fa0f49781063b91a2a6610[m
+Author: Carlos Barbosa <77971569+carloslk18@users.noreply.github.com>
+Date:   Sun Feb 16 23:53:30 2025 -0300
+
+    Update Program.cs
+
+[33mcommit 38f262eb7fe268649c93bc6dbf0524db25ba73b8[m
+Author: Carlos Barbosa <77971569+carloslk18@users.noreply.github.com>
+Date:   Sun Feb 16 23:53:08 2025 -0300
+
+    Update Program.cs
+
+[33mcommit e5b69521ee2e33fefb4b4b6f14568d69a65e33c8[m
+Author: Carlos barbosa <carloslk18@gmail.com>
+Date:   Wed Feb 12 23:27:35 2025 -0300
+
+    build: create TryParse class in Part4
+
+[33mcommit 23516599593b881a8e65544680b094647e83e1c4[m
+Author: Carlos barbosa <carloslk18@gmail.com>
+Date:   Tue Jan 28 10:53:49 2025 -0300
+
+    build: create Control.cs
+
+[33mcommit 258ee8ce85823922193f21908006bf64f3cb4e63[m
+Author: Carlos barbosa <carloslk18@gmail.com>
+Date:   Sun Jan 26 22:06:09 2025 -0300
+
+    Build: create class ConditionOp and Comparison

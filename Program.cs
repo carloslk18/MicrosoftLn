@@ -2,10 +2,11 @@
 namespace MicrosoftLn{
 public class Program{
 
-    public static void Main(string [] args){
+    public static void Main(string [] args)
+    {
 
-        var x = new Test();
-        x.FinalTest02();
+        var x = new Examples();
+        x.Ex02();
 
     }
 }
