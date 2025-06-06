@@ -6,7 +6,7 @@ public class Program{
     {
 
         var x = new Examples();
-        x.Ex02();
+        x.Ex05();
 
     }
 }
